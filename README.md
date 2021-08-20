@@ -11,7 +11,7 @@ Must have pip installed to install Python requirements (python get-pip.py)
   
 After cloning the project, in Command Line, go to the project directory:
 
-pip install -r requirements.txt (This should install all the python modules required)
+<p color="green">pip install -r requirements.txt (This should install all the python modules required)</p>
   
 export FLASK_APP=main.py (This may not be necessary but if there are errors do this step)
   
