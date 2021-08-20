@@ -1,5 +1,4 @@
-GPUBot
-CP317 Final Group Project
+# GPUBot Group Project
 
 To Run in Dev Enviorment
 
